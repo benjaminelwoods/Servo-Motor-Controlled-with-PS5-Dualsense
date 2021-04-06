@@ -1,0 +1,15 @@
+{
+  "name": "dualsense-ps5-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Elwood",
+  "license": "ISC",
+  "dependencies": {
+    "@famibee/skynovel": "^1.16.4",
+    "gamepad.js": "^1.0.3"
+  }
+}
